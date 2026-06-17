@@ -27,7 +27,7 @@ GO
 -- Create the 'DataWarehouse' database
 CREATE DATABASE DataWarehouse;
 GO
-
+c:\sql-data-warehouse-project\tests\quality_checks_silver.sql
 USE DataWarehouse;
 GO
 
